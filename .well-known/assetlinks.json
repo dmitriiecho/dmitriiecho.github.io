@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "krio.systemdesign.shoppingapp",
+    "sha256_cert_fingerprints": [
+      "7D:FA:65:AF:3D:4C:D7:E6:99:BB:8B:A5:22:DF:19:E1:8F:5F:12:C7:1A:28:F5:35:F0:6F:D4:B1:B7:B8:F0:3A"
+    ]
+  }
+}]
